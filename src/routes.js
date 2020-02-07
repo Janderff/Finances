@@ -15,6 +15,7 @@ export default function Routes() {
         screenOptions={{
           headerStyle: {backgroundColor: '#08081c'},
           headerTintColor: '#FFF',
+          headerTitleAlign: 'center',
           fontWeight: 'bold',
         }}>
         <Stack.Screen
